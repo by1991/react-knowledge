@@ -4,3 +4,5 @@ For React learning
   https://www.digitalocean.com/community/tutorials/how-to-call-web-apis-with-the-useeffect-hook-in-react
 - How To Handle Async Data Loading, Lazy Loading, and Code Splitting with React
   https://www.digitalocean.com/community/tutorials/how-to-handle-async-data-loading-lazy-loading-and-code-splitting-with-react
+- useRef
+  https://www.w3schools.com/react/react_useref.asp
