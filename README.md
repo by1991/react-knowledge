@@ -15,6 +15,8 @@ For React learning
   8. componentWillUnmount()
 - useRef
   https://www.w3schools.com/react/react_useref.asp
+- React.memo() vs useMemo()
+  https://blog.logrocket.com/react-memo-vs-usememo/
 - Redux
   - action (type, payload), dispatch, subscribe, getState, combineReducers
   - reducer must be a pure function, no side effects e.g. HTTP request
