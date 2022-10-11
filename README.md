@@ -13,6 +13,8 @@ For React learning
   6. getSnapshotBeforeUpdate()
   7. componentDidUpdate()
   8. componentWillUnmount()
+- Virtual DOM vs Real DOM:
+  - Virtual DOM is a JavaScript object
 - useRef
   https://www.w3schools.com/react/react_useref.asp
 - React.memo() vs useMemo()
@@ -27,3 +29,5 @@ For React learning
   - A thunk function is a function that accepts two arguments: the Redux store dispatch method, and the Redux store getState method
 - Redux Saga
   - a middleware to handle side effects
+- Server Side Rendering
+  https://asperbrothers.com/blog/server-side-rendering-in-react
