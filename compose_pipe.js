@@ -1,3 +1,5 @@
+// Read: https://itnext.io/write-better-javascript-function-composition-with-pipe-and-compose-93cc39ab16ee
+
 // function composition of any number of functions
 const compose = (...fns) => x => fns.reduceRight((y, f) => f(y), x); 
 const double = x => x * 2
