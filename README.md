@@ -31,3 +31,8 @@ For React learning
   - a middleware to handle side effects
 - Server Side Rendering
   https://asperbrothers.com/blog/server-side-rendering-in-react
+- Fiber:
+  - split work into chunks and prioritize tasks
+  - pause work and come back to it later
+  - reuse work or abort it if it's not needed
+  - current tree, workInProgress tree
