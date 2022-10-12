@@ -36,3 +36,5 @@ For React learning
   - pause work and come back to it later
   - reuse work or abort it if it's not needed
   - current tree, workInProgress tree
+- this binding:
+  https://www.codementor.io/@diegopalacios/what-s-the-binding-of-this-1agz39841z
