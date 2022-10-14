@@ -38,3 +38,7 @@ For React learning
   - current tree, workInProgress tree
 - this binding:
   https://www.codementor.io/@diegopalacios/what-s-the-binding-of-this-1agz39841z
+- React Route:
+  - https://dev.to/iamandrewluca/private-route-in-react-router-v6-lg5
+- Unsafe Lifecycle methods:
+  https://stackoverflow.com/questions/60460093/why-is-componentwillmount-componentwillupdate-and-other-lifecycle-methods-i
