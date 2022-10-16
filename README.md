@@ -24,6 +24,7 @@ For React learning
   - reducer must be a pure function, no side effects e.g. HTTP request
   - reducer must return a new object
   - reducer state avoid nesting, better to be flat
+  - Architecture: https://www.educative.io/blog/react-design-patterns-best-practices
 - Redux Thunk
   - can dispatch not only an object but also a function and use multiple dispatches in one function
   - A thunk function is a function that accepts two arguments: the Redux store dispatch method, and the Redux store getState method
