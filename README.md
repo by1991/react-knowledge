@@ -46,3 +46,5 @@ For React learning
 - Create modal:
   ReactDOM.createPortal
   https://juejin.cn/post/6844903683197501447
+- Environment Variables:
+  https://create-react-app.dev/docs/adding-custom-environment-variables/
