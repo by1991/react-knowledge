@@ -43,3 +43,5 @@ For React learning
   - https://dev.to/iamandrewluca/private-route-in-react-router-v6-lg5
 - Unsafe Lifecycle methods:
   https://stackoverflow.com/questions/60460093/why-is-componentwillmount-componentwillupdate-and-other-lifecycle-methods-i
+- Create modal:
+  https://juejin.cn/post/6844903683197501447
